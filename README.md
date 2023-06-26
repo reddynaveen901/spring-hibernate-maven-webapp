@@ -18,6 +18,6 @@ Be in the directory docker-jenkins
     name VARCHAR(50) NOT NULL,
     joining_date DATE NOT NULL,
     salary DOUBLE NOT NULL,
-    ssn VARCHAR(30) NOT NULLUNIQue,
+    ssn VARCHAR(30) nOT NULLUNIQue,
     PRIMARY KEY (id)
 );`
