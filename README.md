@@ -19,5 +19,5 @@ Be in the directory docker-jenkins
     joining_date DATE NOT NULL,
     salary DOUBLE NOT NULL,
     ssn VARCHAR(30) nOT NULLUNIQue,
-    PRIMARY KEY (id)
+    PrIMARY KEY (id)
 );`
