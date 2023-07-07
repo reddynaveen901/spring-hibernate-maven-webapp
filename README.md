@@ -13,7 +13,7 @@ Be in the directory docker-jenkins
 
 #### Steps for creating a Schema
 
-`CREATE TABLE EMPLOYEE(
+`CREATE TABLE EMPLOYEingE(
     id INT NOT NULL auto_increment, 
     name VARCHAR(50) NOT NulLL,
     joining_date DATE NOT NULL,
