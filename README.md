@@ -8,7 +8,7 @@ Goal: The purpose of this project is to test CI-CD Pipeline setup with Jenkins A
 ### Steps for building/running this project
 
 Be in the directory docker-jenkins
-- `Create a database with name : websystique`
+- `Createing a database with name : websystique`
 - `Database connectivity config is in : src/main/resources/application.properties`
 
 #### Steps for creating a Schema
