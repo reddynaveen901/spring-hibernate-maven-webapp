@@ -15,7 +15,7 @@ Be in the directory docker-jenkins
 
 `CREATE TABLE EMPLOYEE(
     id INT NOT NULL auto_increment, 
-    name VARCHAR(50) NOT NULL,
+    name VARCHAR(50) NOT NulLL,
     joining_date DATE NOT NULL,
     salary DOUBLE NOT NULL,
     ssn VARCHAR(30) not NULLUNIQue,
